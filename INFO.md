@@ -1,1 +1,1 @@
-Git is awesome
+my new file to b changed and committed
